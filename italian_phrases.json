@@ -1,0 +1,1202 @@
+[
+ {
+  "category": "Basics",
+  "english": "Good morning / Hello",
+  "italian": "Buongiorno",
+  "pronunciation": "bwohn-JOR-noh"
+ },
+ {
+  "category": "Basics",
+  "english": "Good evening",
+  "italian": "Buonasera",
+  "pronunciation": "bwoh-nah-SEH-rah"
+ },
+ {
+  "category": "Basics",
+  "english": "Goodbye",
+  "italian": "Arrivederci",
+  "pronunciation": "ah-ree-veh-DEHR-chee"
+ },
+ {
+  "category": "Basics",
+  "english": "Please",
+  "italian": "Per favore",
+  "pronunciation": "pehr fah-VOH-reh"
+ },
+ {
+  "category": "Basics",
+  "english": "Thank you",
+  "italian": "Grazie",
+  "pronunciation": "GRAHT-see-eh"
+ },
+ {
+  "category": "Basics",
+  "english": "You're welcome",
+  "italian": "Prego",
+  "pronunciation": "PREH-goh"
+ },
+ {
+  "category": "Basics",
+  "english": "Excuse me (to get attention)",
+  "italian": "Mi scusi",
+  "pronunciation": "mee SKOO-zee"
+ },
+ {
+  "category": "Basics",
+  "english": "I'm sorry",
+  "italian": "Mi dispiace",
+  "pronunciation": "mee dee-SPYAH-cheh"
+ },
+ {
+  "category": "Basics",
+  "english": "Yes / No",
+  "italian": "Sì / No",
+  "pronunciation": "see / noh"
+ },
+ {
+  "category": "Basics",
+  "english": "I don't understand",
+  "italian": "Non capisco",
+  "pronunciation": "nohn kah-PEE-skoh"
+ },
+ {
+  "category": "Basics",
+  "english": "Do you speak English?",
+  "italian": "Parla inglese?",
+  "pronunciation": "PAR-lah een-GLEH-zeh"
+ },
+ {
+  "category": "Basics",
+  "english": "I don't speak Italian",
+  "italian": "Non parlo italiano",
+  "pronunciation": "nohn PAR-loh ee-tah-LYAH-noh"
+ },
+ {
+  "category": "Basics",
+  "english": "Can you speak more slowly?",
+  "italian": "Può parlare più lentamente?",
+  "pronunciation": "pwoh par-LAH-reh pyoo lehn-tah-MEHN-teh"
+ },
+ {
+  "category": "Basics",
+  "english": "Can you repeat that?",
+  "italian": "Può ripetere?",
+  "pronunciation": "pwoh ree-PEH-teh-reh"
+ },
+ {
+  "category": "Basics",
+  "english": "How do you say this in Italian?",
+  "italian": "Come si dice in italiano?",
+  "pronunciation": "KOH-meh see DEE-cheh een ee-tah-LYAH-noh"
+ },
+ {
+  "category": "Basics",
+  "english": "My name is...",
+  "italian": "Mi chiamo...",
+  "pronunciation": "mee KYAH-moh"
+ },
+ {
+  "category": "Basics",
+  "english": "Nice to meet you",
+  "italian": "Piacere",
+  "pronunciation": "pyah-CHEH-reh"
+ },
+ {
+  "category": "Basics",
+  "english": "Where is the bathroom?",
+  "italian": "Dov'è il bagno?",
+  "pronunciation": "doh-VEH eel BAH-nyoh"
+ },
+ {
+  "category": "Basics",
+  "english": "How much does it cost?",
+  "italian": "Quanto costa?",
+  "pronunciation": "KWAHN-toh KOH-stah"
+ },
+ {
+  "category": "Basics",
+  "english": "Help!",
+  "italian": "Aiuto!",
+  "pronunciation": "ah-YOO-toh"
+ },
+ {
+  "category": "Hotel",
+  "english": "I have a reservation",
+  "italian": "Ho una prenotazione",
+  "pronunciation": "oh OO-nah preh-noh-tah-TSYOH-neh"
+ },
+ {
+  "category": "Hotel",
+  "english": "The reservation is under the name...",
+  "italian": "La prenotazione è a nome...",
+  "pronunciation": "lah preh-noh-tah-TSYOH-neh eh ah NOH-meh"
+ },
+ {
+  "category": "Hotel",
+  "english": "I'd like a room for two",
+  "italian": "Vorrei una camera per due",
+  "pronunciation": "vor-RAY OO-nah KAH-meh-rah pehr DOO-eh"
+ },
+ {
+  "category": "Hotel",
+  "english": "A single room",
+  "italian": "Una camera singola",
+  "pronunciation": "OO-nah KAH-meh-rah SEEN-goh-lah"
+ },
+ {
+  "category": "Hotel",
+  "english": "A room with a double bed",
+  "italian": "Una camera matrimoniale",
+  "pronunciation": "OO-nah KAH-meh-rah mah-tree-moh-NYAH-leh"
+ },
+ {
+  "category": "Hotel",
+  "english": "A room with twin beds",
+  "italian": "Una camera con letti separati",
+  "pronunciation": "OO-nah KAH-meh-rah kohn LEHT-tee seh-pah-RAH-tee"
+ },
+ {
+  "category": "Hotel",
+  "english": "How much is it per night?",
+  "italian": "Quanto costa a notte?",
+  "pronunciation": "KWAHN-toh KOH-stah ah NOHT-teh"
+ },
+ {
+  "category": "Hotel",
+  "english": "Is breakfast included?",
+  "italian": "La colazione è inclusa?",
+  "pronunciation": "lah koh-lah-TSYOH-neh eh een-KLOO-zah"
+ },
+ {
+  "category": "Hotel",
+  "english": "What time is breakfast?",
+  "italian": "A che ora è la colazione?",
+  "pronunciation": "ah keh OH-rah eh lah koh-lah-TSYOH-neh"
+ },
+ {
+  "category": "Hotel",
+  "english": "What time is check-in?",
+  "italian": "A che ora è il check-in?",
+  "pronunciation": "ah keh OH-rah eh eel check-in"
+ },
+ {
+  "category": "Hotel",
+  "english": "What time is check-out?",
+  "italian": "A che ora è il check-out?",
+  "pronunciation": "ah keh OH-rah eh eel check-out"
+ },
+ {
+  "category": "Hotel",
+  "english": "Can I leave my luggage here?",
+  "italian": "Posso lasciare qui i bagagli?",
+  "pronunciation": "POHS-soh lah-SHAH-reh kwee ee bah-GAH-lyee"
+ },
+ {
+  "category": "Hotel",
+  "english": "What's the Wi-Fi password?",
+  "italian": "Qual è la password del Wi-Fi?",
+  "pronunciation": "kwah-LEH lah password dehl WEE-fee"
+ },
+ {
+  "category": "Hotel",
+  "english": "The air conditioning isn't working",
+  "italian": "L'aria condizionata non funziona",
+  "pronunciation": "LAH-ryah kohn-dee-tsyoh-NAH-tah nohn foon-TSYOH-nah"
+ },
+ {
+  "category": "Hotel",
+  "english": "There's no hot water",
+  "italian": "Non c'è acqua calda",
+  "pronunciation": "nohn cheh AH-kwah KAHL-dah"
+ },
+ {
+  "category": "Hotel",
+  "english": "The heating isn't working",
+  "italian": "Il riscaldamento non funziona",
+  "pronunciation": "eel ree-skahl-dah-MEHN-toh nohn foon-TSYOH-nah"
+ },
+ {
+  "category": "Hotel",
+  "english": "I need more towels",
+  "italian": "Ho bisogno di altri asciugamani",
+  "pronunciation": "oh bee-ZOH-nyoh dee AHL-tree ah-shoo-gah-MAH-nee"
+ },
+ {
+  "category": "Hotel",
+  "english": "I need extra pillows",
+  "italian": "Vorrei dei cuscini in più",
+  "pronunciation": "vor-RAY day koo-SHEE-nee een pyoo"
+ },
+ {
+  "category": "Hotel",
+  "english": "Could you call a taxi for me?",
+  "italian": "Può chiamarmi un taxi?",
+  "pronunciation": "pwoh kyah-MAR-mee oon TAHK-see"
+ },
+ {
+  "category": "Hotel",
+  "english": "Can I have a late check-out?",
+  "italian": "Posso fare il check-out più tardi?",
+  "pronunciation": "POHS-soh FAH-reh eel check-out pyoo TAR-dee"
+ },
+ {
+  "category": "Hotel",
+  "english": "I lost my key",
+  "italian": "Ho perso la chiave",
+  "pronunciation": "oh PEHR-soh lah KYAH-veh"
+ },
+ {
+  "category": "Hotel",
+  "english": "Is there an elevator?",
+  "italian": "C'è un ascensore?",
+  "pronunciation": "cheh oon ah-shen-SOH-reh"
+ },
+ {
+  "category": "Hotel",
+  "english": "Is the room quiet?",
+  "italian": "La camera è tranquilla?",
+  "pronunciation": "lah KAH-meh-rah eh trahn-KWEEL-lah"
+ },
+ {
+  "category": "Hotel",
+  "english": "Do you have a room with a view?",
+  "italian": "Avete una camera con vista?",
+  "pronunciation": "ah-VEH-teh OO-nah KAH-meh-rah kohn VEE-stah"
+ },
+ {
+  "category": "Hotel",
+  "english": "Can you recommend a good restaurant nearby?",
+  "italian": "Può consigliarmi un buon ristorante qui vicino?",
+  "pronunciation": "pwoh kohn-see-LYAR-mee oon bwohn ree-stoh-RAHN-teh kwee vee-CHEE-noh"
+ },
+ {
+  "category": "Hotel",
+  "english": "Where is the nearest pharmacy?",
+  "italian": "Dov'è la farmacia più vicina?",
+  "pronunciation": "doh-VEH lah far-mah-CHEE-ah pyoo vee-CHEE-nah"
+ },
+ {
+  "category": "Hotel",
+  "english": "Is there a city tax?",
+  "italian": "C'è la tassa di soggiorno?",
+  "pronunciation": "cheh lah TAHS-sah dee sohd-JOR-noh"
+ },
+ {
+  "category": "Hotel",
+  "english": "Can I pay by credit card?",
+  "italian": "Posso pagare con la carta di credito?",
+  "pronunciation": "POHS-soh pah-GAH-reh kohn lah KAR-tah dee KREH-dee-toh"
+ },
+ {
+  "category": "Hotel",
+  "english": "Could I have a receipt?",
+  "italian": "Può darmi la ricevuta?",
+  "pronunciation": "pwoh DAR-mee lah ree-cheh-VOO-tah"
+ },
+ {
+  "category": "Hotel",
+  "english": "I'd like a wake-up call at 7 a.m.",
+  "italian": "Vorrei una sveglia alle sette",
+  "pronunciation": "vor-RAY OO-nah ZVEH-lyah AHL-leh SET-teh"
+ },
+ {
+  "category": "Cafe",
+  "english": "An espresso, please (just say 'un caffè')",
+  "italian": "Un caffè, per favore",
+  "pronunciation": "oon kahf-FEH pehr fah-VOH-reh"
+ },
+ {
+  "category": "Cafe",
+  "english": "A cappuccino, please",
+  "italian": "Un cappuccino, per favore",
+  "pronunciation": "oon kahp-poo-CHEE-noh pehr fah-VOH-reh"
+ },
+ {
+  "category": "Cafe",
+  "english": "A coffee with steamed milk (like a latte)",
+  "italian": "Un caffè latte",
+  "pronunciation": "oon kahf-FEH LAHT-teh"
+ },
+ {
+  "category": "Cafe",
+  "english": "An Americano (espresso with hot water)",
+  "italian": "Un caffè americano",
+  "pronunciation": "oon kahf-FEH ah-meh-ree-KAH-noh"
+ },
+ {
+  "category": "Cafe",
+  "english": "A decaf coffee",
+  "italian": "Un caffè decaffeinato",
+  "pronunciation": "oon kahf-FEH deh-kahf-feh-ee-NAH-toh"
+ },
+ {
+  "category": "Cafe",
+  "english": "With oat milk / soy milk",
+  "italian": "Con latte di avena / di soia",
+  "pronunciation": "kohn LAHT-teh dee ah-VEH-nah / dee SOH-yah"
+ },
+ {
+  "category": "Cafe",
+  "english": "An espresso with a splash of milk",
+  "italian": "Un caffè macchiato",
+  "pronunciation": "oon kahf-FEH mahk-KYAH-toh"
+ },
+ {
+  "category": "Cafe",
+  "english": "An iced coffee (shaken with sugar)",
+  "italian": "Un caffè shakerato",
+  "pronunciation": "oon kahf-FEH sheh-keh-RAH-toh"
+ },
+ {
+  "category": "Cafe",
+  "english": "A croissant (Italian style)",
+  "italian": "Un cornetto",
+  "pronunciation": "oon kor-NEHT-toh"
+ },
+ {
+  "category": "Cafe",
+  "english": "A cornetto with cream / jam / chocolate",
+  "italian": "Un cornetto alla crema / alla marmellata / al cioccolato",
+  "pronunciation": "oon kor-NEHT-toh AHL-lah KREH-mah / AHL-lah mar-mel-LAH-tah / ahl chok-koh-LAH-toh"
+ },
+ {
+  "category": "Cafe",
+  "english": "A pastry",
+  "italian": "Una pasta",
+  "pronunciation": "OO-nah PAH-stah"
+ },
+ {
+  "category": "Cafe",
+  "english": "A sandwich",
+  "italian": "Un panino",
+  "pronunciation": "oon pah-NEE-noh"
+ },
+ {
+  "category": "Cafe",
+  "english": "A glass of water",
+  "italian": "Un bicchiere d'acqua",
+  "pronunciation": "oon beek-KYEH-reh DAH-kwah"
+ },
+ {
+  "category": "Cafe",
+  "english": "Sparkling water / Still water",
+  "italian": "Acqua frizzante / Acqua naturale",
+  "pronunciation": "AH-kwah freed-DZAHN-teh / AH-kwah nah-too-RAH-leh"
+ },
+ {
+  "category": "Cafe",
+  "english": "Fresh-squeezed orange juice",
+  "italian": "Una spremuta d'arancia",
+  "pronunciation": "OO-nah spreh-MOO-tah dah-RAHN-chah"
+ },
+ {
+  "category": "Cafe",
+  "english": "To go, please",
+  "italian": "Da portare via, per favore",
+  "pronunciation": "dah por-TAH-reh VEE-ah pehr fah-VOH-reh"
+ },
+ {
+  "category": "Cafe",
+  "english": "I'll sit down",
+  "italian": "Mi siedo al tavolo",
+  "pronunciation": "mee SYEH-doh ahl TAH-voh-loh"
+ },
+ {
+  "category": "Cafe",
+  "english": "Is there a charge to sit at a table?",
+  "italian": "C'è un supplemento per il tavolo?",
+  "pronunciation": "cheh oon soop-pleh-MEHN-toh pehr eel TAH-voh-loh"
+ },
+ {
+  "category": "Cafe",
+  "english": "I'll drink it at the counter",
+  "italian": "Lo prendo al banco",
+  "pronunciation": "loh PREHN-doh ahl BAHN-koh"
+ },
+ {
+  "category": "Cafe",
+  "english": "Where do I pay?",
+  "italian": "Dove si paga?",
+  "pronunciation": "DOH-veh see PAH-gah"
+ },
+ {
+  "category": "Cafe",
+  "english": "Should I pay at the register first?",
+  "italian": "Devo pagare prima alla cassa?",
+  "pronunciation": "DEH-voh pah-GAH-reh PREE-mah AHL-lah KAHS-sah"
+ },
+ {
+  "category": "Cafe",
+  "english": "Can I have the receipt?",
+  "italian": "Posso avere lo scontrino?",
+  "pronunciation": "POHS-soh ah-VEH-reh loh skohn-TREE-noh"
+ },
+ {
+  "category": "Cafe",
+  "english": "Do you have gluten-free options?",
+  "italian": "Avete opzioni senza glutine?",
+  "pronunciation": "ah-VEH-teh oh-TSYOH-nee SEHN-tsah GLOO-tee-neh"
+ },
+ {
+  "category": "Cafe",
+  "english": "What do you recommend?",
+  "italian": "Cosa mi consiglia?",
+  "pronunciation": "KOH-zah mee kohn-SEE-lyah"
+ },
+ {
+  "category": "Cafe",
+  "english": "One more, please",
+  "italian": "Un altro, per favore",
+  "pronunciation": "oon AHL-troh pehr fah-VOH-reh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "A table for two, please",
+  "italian": "Un tavolo per due, per favore",
+  "pronunciation": "oon TAH-voh-loh pehr DOO-eh pehr fah-VOH-reh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Do you have a table available?",
+  "italian": "Avete un tavolo libero?",
+  "pronunciation": "ah-VEH-teh oon TAH-voh-loh LEE-beh-roh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Do I need a reservation?",
+  "italian": "Serve la prenotazione?",
+  "pronunciation": "SEHR-veh lah preh-noh-tah-TSYOH-neh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "I'd like to book a table for tonight at 8",
+  "italian": "Vorrei prenotare un tavolo per stasera alle otto",
+  "pronunciation": "vor-RAY preh-noh-TAH-reh oon TAH-voh-loh pehr stah-ZEH-rah AHL-leh OHT-toh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Can we sit outside?",
+  "italian": "Possiamo sederci fuori?",
+  "pronunciation": "pohs-SYAH-moh seh-DEHR-chee FWOH-ree"
+ },
+ {
+  "category": "Restaurant",
+  "english": "The menu, please",
+  "italian": "Il menù, per favore",
+  "pronunciation": "eel meh-NOO pehr fah-VOH-reh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Do you have a menu in English?",
+  "italian": "Avete un menù in inglese?",
+  "pronunciation": "ah-VEH-teh oon meh-NOO een een-GLEH-zeh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "What's the dish of the day?",
+  "italian": "Qual è il piatto del giorno?",
+  "pronunciation": "kwah-LEH eel PYAHT-toh dehl JOR-noh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "What do you recommend?",
+  "italian": "Cosa ci consiglia?",
+  "pronunciation": "KOH-zah chee kohn-SEE-lyah"
+ },
+ {
+  "category": "Restaurant",
+  "english": "What is the local specialty?",
+  "italian": "Qual è la specialità della zona?",
+  "pronunciation": "kwah-LEH lah speh-chah-lee-TAH DEHL-lah DZOH-nah"
+ },
+ {
+  "category": "Restaurant",
+  "english": "I would like...",
+  "italian": "Vorrei...",
+  "pronunciation": "vor-RAY"
+ },
+ {
+  "category": "Restaurant",
+  "english": "I'll have this",
+  "italian": "Prendo questo",
+  "pronunciation": "PREHN-doh KWEH-stoh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "For the appetizer",
+  "italian": "Come antipasto",
+  "pronunciation": "KOH-meh ahn-tee-PAH-stoh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "For the first course (pasta or soup)",
+  "italian": "Come primo",
+  "pronunciation": "KOH-meh PREE-moh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "For the main course",
+  "italian": "Come secondo",
+  "pronunciation": "KOH-meh seh-KOHN-doh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "As a side dish",
+  "italian": "Come contorno",
+  "pronunciation": "KOH-meh kohn-TOR-noh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "For dessert",
+  "italian": "Come dolce",
+  "pronunciation": "KOH-meh DOHL-cheh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "I'm vegetarian",
+  "italian": "Sono vegetariano / vegetariana",
+  "pronunciation": "SOH-noh veh-jeh-tah-RYAH-noh / -nah"
+ },
+ {
+  "category": "Restaurant",
+  "english": "I'm vegan",
+  "italian": "Sono vegano / vegana",
+  "pronunciation": "SOH-noh veh-GAH-noh / -nah"
+ },
+ {
+  "category": "Restaurant",
+  "english": "I'm allergic to nuts",
+  "italian": "Sono allergico / allergica alle noci",
+  "pronunciation": "SOH-noh ahl-LEHR-jee-koh AHL-leh NOH-chee"
+ },
+ {
+  "category": "Restaurant",
+  "english": "I have celiac disease",
+  "italian": "Sono celiaco / celiaca",
+  "pronunciation": "SOH-noh cheh-LEE-ah-koh / -kah"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Does this contain dairy?",
+  "italian": "Contiene latticini?",
+  "pronunciation": "kohn-TYEH-neh laht-tee-CHEE-nee"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Without meat, please",
+  "italian": "Senza carne, per favore",
+  "pronunciation": "SEHN-tsah KAR-neh pehr fah-VOH-reh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Without onions, please",
+  "italian": "Senza cipolla, per favore",
+  "pronunciation": "SEHN-tsah chee-POHL-lah pehr fah-VOH-reh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Is it spicy?",
+  "italian": "È piccante?",
+  "pronunciation": "eh peek-KAHN-teh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Is the fish fresh?",
+  "italian": "Il pesce è fresco?",
+  "pronunciation": "eel PEH-sheh eh FREH-skoh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Rare / Well done",
+  "italian": "Al sangue / Ben cotto",
+  "pronunciation": "ahl SAHN-gweh / behn KOHT-toh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "A bottle of water",
+  "italian": "Una bottiglia d'acqua",
+  "pronunciation": "OO-nah boht-TEE-lyah DAH-kwah"
+ },
+ {
+  "category": "Restaurant",
+  "english": "The house wine",
+  "italian": "Il vino della casa",
+  "pronunciation": "eel VEE-noh DEHL-lah KAH-zah"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Red wine / White wine",
+  "italian": "Vino rosso / Vino bianco",
+  "pronunciation": "VEE-noh ROHS-soh / VEE-noh BYAHN-koh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "A carafe of house wine",
+  "italian": "Una caraffa di vino della casa",
+  "pronunciation": "OO-nah kah-RAHF-fah dee VEE-noh DEHL-lah KAH-zah"
+ },
+ {
+  "category": "Restaurant",
+  "english": "More bread, please",
+  "italian": "Ancora del pane, per favore",
+  "pronunciation": "ahn-KOH-rah dehl PAH-neh pehr fah-VOH-reh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "We're ready to order",
+  "italian": "Siamo pronti per ordinare",
+  "pronunciation": "SYAH-moh PROHN-tee pehr or-dee-NAH-reh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "This is delicious!",
+  "italian": "È squisito!",
+  "pronunciation": "eh skwee-ZEE-toh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Can we share this?",
+  "italian": "Possiamo dividere questo?",
+  "pronunciation": "pohs-SYAH-moh dee-VEE-deh-reh KWEH-stoh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Enjoy your meal",
+  "italian": "Buon appetito",
+  "pronunciation": "bwohn ahp-peh-TEE-toh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "The check, please",
+  "italian": "Il conto, per favore",
+  "pronunciation": "eel KOHN-toh pehr fah-VOH-reh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Is service included?",
+  "italian": "Il servizio è incluso?",
+  "pronunciation": "eel sehr-VEE-tsyoh eh een-KLOO-zoh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "How much is the cover charge?",
+  "italian": "Quanto è il coperto?",
+  "pronunciation": "KWAHN-toh eh eel koh-PEHR-toh"
+ },
+ {
+  "category": "Restaurant",
+  "english": "Can we pay separately?",
+  "italian": "Possiamo pagare separatamente?",
+  "pronunciation": "pohs-SYAH-moh pah-GAH-reh seh-pah-rah-tah-MEHN-teh"
+ },
+ {
+  "category": "Bar",
+  "english": "A beer, please",
+  "italian": "Una birra, per favore",
+  "pronunciation": "OO-nah BEER-rah pehr fah-VOH-reh"
+ },
+ {
+  "category": "Bar",
+  "english": "A draft beer (small / medium)",
+  "italian": "Una birra alla spina (piccola / media)",
+  "pronunciation": "OO-nah BEER-rah AHL-lah SPEE-nah (PEEK-koh-lah / MEH-dyah)"
+ },
+ {
+  "category": "Bar",
+  "english": "A glass of red wine",
+  "italian": "Un calice di vino rosso",
+  "pronunciation": "oon KAH-lee-cheh dee VEE-noh ROHS-soh"
+ },
+ {
+  "category": "Bar",
+  "english": "A glass of white wine",
+  "italian": "Un calice di vino bianco",
+  "pronunciation": "oon KAH-lee-cheh dee VEE-noh BYAHN-koh"
+ },
+ {
+  "category": "Bar",
+  "english": "A glass of prosecco",
+  "italian": "Un calice di prosecco",
+  "pronunciation": "oon KAH-lee-cheh dee proh-SEHK-koh"
+ },
+ {
+  "category": "Bar",
+  "english": "An Aperol Spritz",
+  "italian": "Uno spritz Aperol",
+  "pronunciation": "OO-noh SPREETS ah-peh-ROHL"
+ },
+ {
+  "category": "Bar",
+  "english": "A Negroni",
+  "italian": "Un Negroni",
+  "pronunciation": "oon neh-GROH-nee"
+ },
+ {
+  "category": "Bar",
+  "english": "A gin and tonic",
+  "italian": "Un gin tonic",
+  "pronunciation": "oon jeen TOH-neek"
+ },
+ {
+  "category": "Bar",
+  "english": "With ice / Without ice",
+  "italian": "Con ghiaccio / Senza ghiaccio",
+  "pronunciation": "kohn GYAHT-choh / SEHN-tsah GYAHT-choh"
+ },
+ {
+  "category": "Bar",
+  "english": "Neat (no ice or mixer)",
+  "italian": "Liscio",
+  "pronunciation": "LEE-shoh"
+ },
+ {
+  "category": "Bar",
+  "english": "A shot of grappa",
+  "italian": "Un bicchierino di grappa",
+  "pronunciation": "oon beek-kyeh-REE-noh dee GRAHP-pah"
+ },
+ {
+  "category": "Bar",
+  "english": "An after-dinner herbal liqueur",
+  "italian": "Un amaro",
+  "pronunciation": "oon ah-MAH-roh"
+ },
+ {
+  "category": "Bar",
+  "english": "What cocktails do you have?",
+  "italian": "Che cocktail avete?",
+  "pronunciation": "keh KOHK-tayl ah-VEH-teh"
+ },
+ {
+  "category": "Bar",
+  "english": "What local wines do you have?",
+  "italian": "Che vini locali avete?",
+  "pronunciation": "keh VEE-nee loh-KAH-lee ah-VEH-teh"
+ },
+ {
+  "category": "Bar",
+  "english": "Do you have anything to snack on?",
+  "italian": "Avete qualcosa da stuzzicare?",
+  "pronunciation": "ah-VEH-teh kwahl-KOH-zah dah stoot-tsee-KAH-reh"
+ },
+ {
+  "category": "Bar",
+  "english": "Is there an aperitivo (happy hour with snacks)?",
+  "italian": "C'è l'aperitivo?",
+  "pronunciation": "cheh lah-peh-ree-TEE-voh"
+ },
+ {
+  "category": "Bar",
+  "english": "Cheers!",
+  "italian": "Salute! / Cin cin!",
+  "pronunciation": "sah-LOO-teh / cheen cheen"
+ },
+ {
+  "category": "Bar",
+  "english": "Another round, please",
+  "italian": "Un altro giro, per favore",
+  "pronunciation": "oon AHL-troh JEE-roh pehr fah-VOH-reh"
+ },
+ {
+  "category": "Bar",
+  "english": "The same again, please",
+  "italian": "Lo stesso, per favore",
+  "pronunciation": "loh STEHS-soh pehr fah-VOH-reh"
+ },
+ {
+  "category": "Bar",
+  "english": "I'll buy the next round",
+  "italian": "Offro io il prossimo giro",
+  "pronunciation": "OHF-froh EE-oh eel PROHS-see-moh JEE-roh"
+ },
+ {
+  "category": "Bar",
+  "english": "What time do you close?",
+  "italian": "A che ora chiudete?",
+  "pronunciation": "ah keh OH-rah kyoo-DEH-teh"
+ },
+ {
+  "category": "Bar",
+  "english": "Where is a good bar nearby?",
+  "italian": "Dov'è un bel bar qui vicino?",
+  "pronunciation": "doh-VEH oon behl bar kwee vee-CHEE-noh"
+ },
+ {
+  "category": "Bar",
+  "english": "Can I open a tab?",
+  "italian": "Posso aprire un conto?",
+  "pronunciation": "POHS-soh ah-PREE-reh oon KOHN-toh"
+ },
+ {
+  "category": "Bar",
+  "english": "I'll just have water",
+  "italian": "Prendo solo acqua",
+  "pronunciation": "PREHN-doh SOH-loh AH-kwah"
+ },
+ {
+  "category": "Bar",
+  "english": "No more for me, thanks",
+  "italian": "Per me basta, grazie",
+  "pronunciation": "pehr meh BAH-stah GRAHT-see-eh"
+ },
+ {
+  "category": "Museum",
+  "english": "Two tickets, please",
+  "italian": "Due biglietti, per favore",
+  "pronunciation": "DOO-eh bee-LYEHT-tee pehr fah-VOH-reh"
+ },
+ {
+  "category": "Museum",
+  "english": "One full-price ticket",
+  "italian": "Un biglietto intero",
+  "pronunciation": "oon bee-LYEHT-toh een-TEH-roh"
+ },
+ {
+  "category": "Museum",
+  "english": "A reduced-price ticket",
+  "italian": "Un biglietto ridotto",
+  "pronunciation": "oon bee-LYEHT-toh ree-DOHT-toh"
+ },
+ {
+  "category": "Museum",
+  "english": "Is there a student discount?",
+  "italian": "C'è lo sconto per studenti?",
+  "pronunciation": "cheh loh SKOHN-toh pehr stoo-DEHN-tee"
+ },
+ {
+  "category": "Museum",
+  "english": "What are the opening hours?",
+  "italian": "Qual è l'orario di apertura?",
+  "pronunciation": "kwah-LEH loh-RAH-ryoh dee ah-pehr-TOO-rah"
+ },
+ {
+  "category": "Museum",
+  "english": "What time does it close?",
+  "italian": "A che ora chiude?",
+  "pronunciation": "ah keh OH-rah KYOO-deh"
+ },
+ {
+  "category": "Museum",
+  "english": "Is it open on Mondays?",
+  "italian": "È aperto il lunedì?",
+  "pronunciation": "eh ah-PEHR-toh eel loo-neh-DEE"
+ },
+ {
+  "category": "Museum",
+  "english": "Can I buy tickets online?",
+  "italian": "Posso comprare i biglietti online?",
+  "pronunciation": "POHS-soh kohm-PRAH-reh ee bee-LYEHT-tee online"
+ },
+ {
+  "category": "Museum",
+  "english": "I have a reservation",
+  "italian": "Ho la prenotazione",
+  "pronunciation": "oh lah preh-noh-tah-TSYOH-neh"
+ },
+ {
+  "category": "Museum",
+  "english": "Do you have an audio guide?",
+  "italian": "Avete un'audioguida?",
+  "pronunciation": "ah-VEH-teh oon ow-dyoh-GWEE-dah"
+ },
+ {
+  "category": "Museum",
+  "english": "Do you have a tour guide in English?",
+  "italian": "Avete una guida in inglese?",
+  "pronunciation": "ah-VEH-teh OO-nah GWEE-dah een een-GLEH-zeh"
+ },
+ {
+  "category": "Museum",
+  "english": "Is there a guided tour?",
+  "italian": "C'è una visita guidata?",
+  "pronunciation": "cheh OO-nah VEE-zee-tah gwee-DAH-tah"
+ },
+ {
+  "category": "Museum",
+  "english": "Where is the entrance?",
+  "italian": "Dov'è l'ingresso?",
+  "pronunciation": "doh-VEH leen-GREHS-soh"
+ },
+ {
+  "category": "Museum",
+  "english": "Where is the exit?",
+  "italian": "Dov'è l'uscita?",
+  "pronunciation": "doh-VEH loo-SHEE-tah"
+ },
+ {
+  "category": "Museum",
+  "english": "Where is the coat check?",
+  "italian": "Dov'è il guardaroba?",
+  "pronunciation": "doh-VEH eel gwar-dah-ROH-bah"
+ },
+ {
+  "category": "Museum",
+  "english": "Can I take photos?",
+  "italian": "Posso fare foto?",
+  "pronunciation": "POHS-soh FAH-reh FOH-toh"
+ },
+ {
+  "category": "Museum",
+  "english": "Is flash allowed?",
+  "italian": "Si può usare il flash?",
+  "pronunciation": "see pwoh oo-ZAH-reh eel flash"
+ },
+ {
+  "category": "Museum",
+  "english": "Where can I find the...?",
+  "italian": "Dove posso trovare...?",
+  "pronunciation": "DOH-veh POHS-soh troh-VAH-reh"
+ },
+ {
+  "category": "Museum",
+  "english": "Where is the gift shop?",
+  "italian": "Dov'è il negozio di souvenir?",
+  "pronunciation": "doh-VEH eel neh-GOH-tsyoh dee soo-veh-NEER"
+ },
+ {
+  "category": "Museum",
+  "english": "Is it wheelchair accessible?",
+  "italian": "È accessibile in sedia a rotelle?",
+  "pronunciation": "eh aht-chehs-SEE-bee-leh een SEH-dyah ah roh-TEHL-leh"
+ },
+ {
+  "category": "Museum",
+  "english": "Are bags allowed inside?",
+  "italian": "Sono ammesse le borse?",
+  "pronunciation": "SOH-noh ahm-MEHS-seh leh BOR-seh"
+ },
+ {
+  "category": "Museum",
+  "english": "Is there a cafe here?",
+  "italian": "C'è una caffetteria?",
+  "pronunciation": "cheh OO-nah kahf-feht-teh-REE-ah"
+ },
+ {
+  "category": "Museum",
+  "english": "How long does the visit take?",
+  "italian": "Quanto dura la visita?",
+  "pronunciation": "KWAHN-toh DOO-rah lah VEE-zee-tah"
+ },
+ {
+  "category": "Museum",
+  "english": "Do I need to cover my shoulders (for churches)?",
+  "italian": "Devo coprirmi le spalle?",
+  "pronunciation": "DEH-voh koh-PREER-mee leh SPAHL-leh"
+ },
+ {
+  "category": "Museum",
+  "english": "Is admission free?",
+  "italian": "L'ingresso è gratuito?",
+  "pronunciation": "leen-GREHS-soh eh grah-TOO-ee-toh"
+ },
+ {
+  "category": "Transit",
+  "english": "Where is the train station?",
+  "italian": "Dov'è la stazione ferroviaria?",
+  "pronunciation": "doh-VEH lah stah-TSYOH-neh fehr-roh-VYAH-ryah"
+ },
+ {
+  "category": "Transit",
+  "english": "One ticket to Florence, please",
+  "italian": "Un biglietto per Firenze, per favore",
+  "pronunciation": "oon bee-LYEHT-toh pehr fee-REHN-tseh pehr fah-VOH-reh"
+ },
+ {
+  "category": "Transit",
+  "english": "Round trip",
+  "italian": "Andata e ritorno",
+  "pronunciation": "ahn-DAH-tah eh ree-TOR-noh"
+ },
+ {
+  "category": "Transit",
+  "english": "One way",
+  "italian": "Solo andata",
+  "pronunciation": "SOH-loh ahn-DAH-tah"
+ },
+ {
+  "category": "Transit",
+  "english": "First class / Second class",
+  "italian": "Prima classe / Seconda classe",
+  "pronunciation": "PREE-mah KLAHS-seh / seh-KOHN-dah KLAHS-seh"
+ },
+ {
+  "category": "Transit",
+  "english": "Which platform does the train leave from?",
+  "italian": "Da quale binario parte il treno?",
+  "pronunciation": "dah KWAH-leh bee-NAH-ryoh PAR-teh eel TREH-noh"
+ },
+ {
+  "category": "Transit",
+  "english": "What time does the train leave?",
+  "italian": "A che ora parte il treno?",
+  "pronunciation": "ah keh OH-rah PAR-teh eel TREH-noh"
+ },
+ {
+  "category": "Transit",
+  "english": "What time does it arrive?",
+  "italian": "A che ora arriva?",
+  "pronunciation": "ah keh OH-rah ahr-REE-vah"
+ },
+ {
+  "category": "Transit",
+  "english": "Is this the train to Rome?",
+  "italian": "Questo è il treno per Roma?",
+  "pronunciation": "KWEH-stoh eh eel TREH-noh pehr ROH-mah"
+ },
+ {
+  "category": "Transit",
+  "english": "Is this seat taken?",
+  "italian": "Questo posto è occupato?",
+  "pronunciation": "KWEH-stoh POH-stoh eh ohk-koo-PAH-toh"
+ },
+ {
+  "category": "Transit",
+  "english": "Do I need to validate my ticket?",
+  "italian": "Devo convalidare il biglietto?",
+  "pronunciation": "DEH-voh kohn-vah-lee-DAH-reh eel bee-LYEHT-toh"
+ },
+ {
+  "category": "Transit",
+  "english": "Where can I validate my ticket?",
+  "italian": "Dove posso convalidare il biglietto?",
+  "pronunciation": "DOH-veh POHS-soh kohn-vah-lee-DAH-reh eel bee-LYEHT-toh"
+ },
+ {
+  "category": "Transit",
+  "english": "Is the train delayed?",
+  "italian": "Il treno è in ritardo?",
+  "pronunciation": "eel TREH-noh eh een ree-TAR-doh"
+ },
+ {
+  "category": "Transit",
+  "english": "The train was cancelled",
+  "italian": "Il treno è stato cancellato",
+  "pronunciation": "eel TREH-noh eh STAH-toh kahn-chehl-LAH-toh"
+ },
+ {
+  "category": "Transit",
+  "english": "Is there a strike today?",
+  "italian": "C'è uno sciopero oggi?",
+  "pronunciation": "cheh OO-noh SHOH-peh-roh OHD-jee"
+ },
+ {
+  "category": "Transit",
+  "english": "Where is the bus stop?",
+  "italian": "Dov'è la fermata dell'autobus?",
+  "pronunciation": "doh-VEH lah fehr-MAH-tah dehl-OW-toh-boos"
+ },
+ {
+  "category": "Transit",
+  "english": "Which bus goes to the city center?",
+  "italian": "Quale autobus va in centro?",
+  "pronunciation": "KWAH-leh OW-toh-boos vah een CHEHN-troh"
+ },
+ {
+  "category": "Transit",
+  "english": "Does this bus go to...?",
+  "italian": "Questo autobus va a...?",
+  "pronunciation": "KWEH-stoh OW-toh-boos vah ah"
+ },
+ {
+  "category": "Transit",
+  "english": "Where can I buy bus tickets?",
+  "italian": "Dove posso comprare i biglietti dell'autobus?",
+  "pronunciation": "DOH-veh POHS-soh kohm-PRAH-reh ee bee-LYEHT-tee dehl-OW-toh-boos"
+ },
+ {
+  "category": "Transit",
+  "english": "What's the next stop?",
+  "italian": "Qual è la prossima fermata?",
+  "pronunciation": "kwah-LEH lah PROHS-see-mah fehr-MAH-tah"
+ },
+ {
+  "category": "Transit",
+  "english": "I'm getting off here",
+  "italian": "Scendo qui",
+  "pronunciation": "SHEHN-doh kwee"
+ },
+ {
+  "category": "Transit",
+  "english": "Where is the metro?",
+  "italian": "Dov'è la metropolitana?",
+  "pronunciation": "doh-VEH lah meh-troh-poh-lee-TAH-nah"
+ },
+ {
+  "category": "Transit",
+  "english": "A taxi, please",
+  "italian": "Un taxi, per favore",
+  "pronunciation": "oon TAHK-see pehr fah-VOH-reh"
+ },
+ {
+  "category": "Transit",
+  "english": "Please take me to this address",
+  "italian": "Mi porti a questo indirizzo, per favore",
+  "pronunciation": "mee POR-tee ah KWEH-stoh een-dee-REET-tsoh pehr fah-VOH-reh"
+ },
+ {
+  "category": "Transit",
+  "english": "To the airport, please",
+  "italian": "All'aeroporto, per favore",
+  "pronunciation": "ahl-lah-eh-roh-POR-toh pehr fah-VOH-reh"
+ },
+ {
+  "category": "Transit",
+  "english": "Please use the meter",
+  "italian": "Usi il tassametro, per favore",
+  "pronunciation": "OO-zee eel tahs-SAH-meh-troh pehr fah-VOH-reh"
+ },
+ {
+  "category": "Transit",
+  "english": "How much to go to...?",
+  "italian": "Quanto costa andare a...?",
+  "pronunciation": "KWAHN-toh KOH-stah ahn-DAH-reh ah"
+ },
+ {
+  "category": "Transit",
+  "english": "Keep the change",
+  "italian": "Tenga il resto",
+  "pronunciation": "TEHN-gah eel REH-stoh"
+ },
+ {
+  "category": "Transit",
+  "english": "Please stop here",
+  "italian": "Si fermi qui, per favore",
+  "pronunciation": "see FEHR-mee kwee pehr fah-VOH-reh"
+ },
+ {
+  "category": "Transit",
+  "english": "How do I get to...?",
+  "italian": "Come arrivo a...?",
+  "pronunciation": "KOH-meh ahr-REE-voh ah"
+ },
+ {
+  "category": "Transit",
+  "english": "Is it far from here?",
+  "italian": "È lontano da qui?",
+  "pronunciation": "eh lohn-TAH-noh dah kwee"
+ },
+ {
+  "category": "Transit",
+  "english": "Can I walk there?",
+  "italian": "Si può andare a piedi?",
+  "pronunciation": "see pwoh ahn-DAH-reh ah PYEH-dee"
+ },
+ {
+  "category": "Transit",
+  "english": "Straight ahead / Left / Right",
+  "italian": "Sempre dritto / A sinistra / A destra",
+  "pronunciation": "SEHM-preh DREET-toh / ah see-NEE-strah / ah DEH-strah"
+ },
+ {
+  "category": "Transit",
+  "english": "I'd like to rent a car",
+  "italian": "Vorrei noleggiare un'auto",
+  "pronunciation": "vor-RAY noh-lehd-JAH-reh OO-now-toh"
+ },
+ {
+  "category": "Transit",
+  "english": "Where is the gas station?",
+  "italian": "Dov'è il distributore di benzina?",
+  "pronunciation": "doh-VEH eel dee-stree-boo-TOH-reh dee behn-DZEE-nah"
+ }
+]
